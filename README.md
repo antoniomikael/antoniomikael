@@ -6,7 +6,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antoniomikael&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
   
-    ##
   
   <h3>Redes sociais:</h3>
   
